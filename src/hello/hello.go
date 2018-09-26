@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"kwl-stringutil"
+)
 
 func main() {
-	fmt.Printf("hello, world\n")
+	fmt.Println(stringutil.Reverse("!oG ,olleH"))
 }
