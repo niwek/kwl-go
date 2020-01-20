@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"kwl-stringutil"
+	"github.com/niwek/kwl-go/stringutil"
 )
 
 func main() {
